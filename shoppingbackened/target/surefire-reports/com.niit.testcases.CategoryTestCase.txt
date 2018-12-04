@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.niit.testcases.CategoryTestCase
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 1.969 sec - in com.niit.testcases.CategoryTestCase
